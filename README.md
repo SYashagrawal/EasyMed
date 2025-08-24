@@ -1,7 +1,3 @@
-Perfect 👍 Here’s a **ready-to-copy GitHub README** for your project:
-
----
-
 # 🏥 EasyMed
 
 **EasyMed** is a simple healthcare management system built with **Node.js, Express, and MySQL**.
